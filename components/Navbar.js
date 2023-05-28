@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
 import Link from "next/link";
-
+import Image from "next/image";
 function Nav() {
   const [isOpen, setIsOpen] = useState(false);
   return (
@@ -11,11 +11,12 @@ function Nav() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <img
+                <Link href="/"><Image
                   className="h-8 w-8"
                   src="https://res.cloudinary.com/learncodewithrk/image/upload/v1685266974/carparking%20website/parking3_tko5uv.png"
                   alt="LearnCode With RK"
-                />
+                  width={100} height={100}
+                /></Link>
               </div>
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-4">

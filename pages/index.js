@@ -2,9 +2,8 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 
 import Hero from '@/components/Hero'
-import Banner from '@/components/Banner'
 
-import Faq from '@/components/Faq'
+
 import About from '@/components/About'
 import Teatimonial from '@/components/Teatimonial'
 import City from '@/components/City'
