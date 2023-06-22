@@ -12,11 +12,11 @@ const Footer = () => {
 
                 <p className="text-base leading-relaxed text-gray-600 mt-7">Paying for parking: In many urban areas, parking spaces require payment. This can be done using parking meters, pay-and-display machines, or mobile payment apps</p>
 
-                <Link href="https://api.whatsapp.com/send?phone=919599695872&text=Hello" title="" className="inline-flex items-center justify-center px-6 py-4 font-semibold text-white transition-all duration-200 bg-blue-600 rounded-md hover:bg-blue-700 focus:bg-blue-700 mt-7">
+                <Link href="https://api.whatsapp.com/send?phone=212642966409&text=hello" title="" className="inline-flex items-center justify-center px-6 py-4 font-semibold text-white transition-all duration-200 bg-blue-600 rounded-md hover:bg-blue-700 focus:bg-blue-700 mt-7">
                     <svg className="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
                     </svg>
-                    Start Live Chat
+                    +212 642-966409
                 </Link>
             </div>
 
@@ -29,15 +29,15 @@ const Footer = () => {
                     </li>
 
                     <li>
-                        <Link href="https://learncodewithrk.in/car-parking" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Features </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Features </Link>
                     </li>
 
                     <li>
-                        <Link href="https://www.youtube.com/@learncodewithrk" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Works </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Works </Link>
                     </li>
 
                     <li>
-                        <Link href="https://www.behance.net/learncodewithrk/" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Career </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Career </Link>
                     </li>
                 </ul>
             </div>
@@ -47,19 +47,19 @@ const Footer = () => {
 
                 <ul className="mt-6 space-y-4">
                     <li>
-                        <Link href="https://api.whatsapp.com/send?phone=919599695872&text=Hello" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Customer Support </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Customer Support </Link>
                     </li>
 
                     <li>
-                        <Link href="https://learncodewithrk.in/car-parking" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Delivery Details </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Delivery Details </Link>
                     </li>
 
                     <li>
-                        <Link href="https://learncodewithrk.in/term-condition" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Terms & Conditions </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Terms & Conditions </Link>
                     </li>
 
                     <li>
-                        <Link href="https://learncodewithrk.in/privacy-policy" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Privacy Policy </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Privacy Policy </Link>
                     </li>
                 </ul>
             </div>
@@ -69,19 +69,19 @@ const Footer = () => {
 
                 <ul className="mt-6 space-y-5">
                     <li>
-                        <Link href="https://learncodewithrk.in/" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Free eBooks </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Free eBooks </Link>
                     </li>
 
                     <li>
-                        <Link href="https://learncodewithrk.in/" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Development Tutorial </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Development Tutorial </Link>
                     </li>
 
                     <li>
-                        <Link href="https://learncodewithrk.in/android-blog" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> How to - Blog </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> How to - Blog </Link>
                     </li>
 
                     <li>
-                        <Link href="https://www.youtube.com/watch?v=HTXoRbWs6l8&list=PLIBSkMHzGnXTeG9Vfml1_IqlaOPXcG5Mr&ab_channel=LearnCodeWithRk" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> YouTube Playlist </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> YouTube Playlist </Link>
                     </li>
                 </ul>
             </div>
@@ -91,19 +91,19 @@ const Footer = () => {
 
                 <ul className="mt-6 space-y-5">
                     <li>
-                        <Link href="https://api.whatsapp.com/send?phone=919599695872&text=Hello" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Customer Support </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Customer Support </Link>
                     </li>
 
                     <li>
-                        <Link href="https://api.whatsapp.com/send?phone=919599695872&text=Hello" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Delivery Details </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Delivery Details </Link>
                     </li>
 
                     <li>
-                        <Link href="https://learncodewithrk.in/term-condition" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Terms & Conditions </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Terms & Conditions </Link>
                     </li>
 
                     <li>
-                        <Link href="https://learncodewithrk.in/privacy-policy" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Privacy Policy </Link>
+                        <Link href="#" title="" className="flex text-sm text-gray-800 transition-all duration-200 hover:text-orange-600 focus:text-orange-600"> Privacy Policy </Link>
                     </li>
                 </ul>
             </div>
