@@ -29,7 +29,7 @@ const About = () => {
                     </svg>
                 </div>
                 <h2 className="mt-10 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl lg:leading-tight">On The Go with ParkMobile</h2>
-                <p className="mt-6 text-lg leading-relaxed text-gray-600">Available in more than 400 cites across the U.S., ParkMobile gives you the ability to park.</p>
+                <p className="mt-6 text-lg leading-relaxed text-gray-600">Available in more than 5 cities across Morocco, ParkIQ gives you ability to park..</p>
                 <Link href="#" title="" className="inline-flex items-center justify-center px-10 py-4 text-base font-semibold text-white transition-all duration-200 rounded-md mt-9 bg-gradient-to-r from-fuchsia-600 to-blue-600 hover:opacity-80 focus:opacity-80" role="button"> Explore more </Link>
             </div>
         </div>
