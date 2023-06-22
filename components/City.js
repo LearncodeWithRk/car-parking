@@ -32,7 +32,7 @@ const City = () => {
                     <div className="flex items-center">
                         <Image className="flex-shrink-0 w-12 h-auto" src="https://res.cloudinary.com/learncodewithrk/image/upload/v1685267179/carparking%20website/parking_ixmb77.png" alt="" width={1920} height={1280}/>
                         <div className="ml-5 mr-auto">
-                            <p className="text-xl font-semibold text-black">Cashblanca</p>
+                            <p className="text-xl font-semibold text-black">Casablanca</p>
                             <p className="mt-px text-sm text-gray-600">Best Location</p>
                         </div>
                         <svg className="block w-6 h-6 text-blue-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
