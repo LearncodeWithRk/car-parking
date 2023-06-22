@@ -30,7 +30,7 @@ const Aboutus = () => {
 
                 <div className="py-9">
                     <p className="text-xl font-semibold text-black">
-                    Information about accepted payment methods for parking fees is often provided. It may include options like cash, credit/debit cards, mobile payment apps, or specific parking passes. <a href="#" title="" className="text-blue-600 transition-all duration-200 hover:text-blue-700 focus:text-blue-700 hover:underline">learncodewithrk.in</a>
+                    Information about accepted payment methods for parking fees is often provided. It may include options like cash, credit/debit cards, mobile payment apps, or specific parking passes. <a href="#" title="" className="text-blue-600 transition-all duration-200 hover:text-blue-700 focus:text-blue-700 hover:underline"></a>
                     </p>
                 </div>
             </div>

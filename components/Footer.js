@@ -112,7 +112,7 @@ const Footer = () => {
         <hr className="mt-16 mb-10 border-gray-200" />
 
         <div className="sm:flex sm:items-center sm:justify-between">
-            <p className="text-sm text-gray-600">© Copyright 2021, All Rights Reserved by LearnCode With RK</p>
+            <p className="text-sm text-gray-600">© Copyright 2021, All Rights Reserved by ParkIQ</p>
 
             <ul className="flex items-center mt-5 space-x-3 md:order-3 sm:mt-0">
               
@@ -156,6 +156,9 @@ const Footer = () => {
                             ></path>
                         </svg>
                     </Link>
+
+
+
                 </li>
             </ul>
         </div>
