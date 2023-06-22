@@ -39,7 +39,7 @@ const Teatimonial = () => {
                     <p className="text-xl leading-relaxed text-gray-800">“Love How easy its to pay on the go.”</p>
                 </blockquote>
 
-                <Image className="w-auto h-8 mx-auto mt-6 md:mt-10" src="https://res.cloudinary.com/learncodewithrk/image/upload/v1685268386/carparking%20website/logo_footer_lyik17.png" alt="" width={1920} height={1280}/>
+               
             </div>
 
             <div>
@@ -74,7 +74,7 @@ const Teatimonial = () => {
                     <p className="text-xl leading-relaxed text-gray-800">“This app is a must-have for all drivers.”</p>
                 </blockquote>
 
-                <Image className="w-auto h-8 mx-auto mt-6 md:mt-10" src="https://res.cloudinary.com/learncodewithrk/image/upload/v1685268386/carparking%20website/logo_footer_lyik17.png" alt="" width={1920} height={1280}/>
+                
             </div>
         </div>
     </div>

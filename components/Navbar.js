@@ -13,8 +13,8 @@ function Nav() {
               <div className="flex-shrink-0">
                 <Link href="/"><Image
                   className="h-8 w-8"
-                  src="https://res.cloudinary.com/learncodewithrk/image/upload/v1685266974/carparking%20website/parking3_tko5uv.png"
-                  alt="LearnCode With RK"
+                  src="https://res.cloudinary.com/learncodewithrk/image/upload/v1687440381/logooo_ei2jia.png"
+                  alt="parkiq"
                   width={100} height={100}
                 /></Link>
               </div>

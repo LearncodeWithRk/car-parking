@@ -10,7 +10,7 @@ const Hero = () => {
             <div className="grid items-center grid-cols-1 gap-y-12 lg:grid-cols-2 lg:gap-x-8 2xl:gap-x-20">
                 <div>
                     <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl lg:leading-tight">Parking. Pay. Go.</h2>
-                    <p className="mt-4 text-base text-black-50">When you are on the go, the free ParkMobile app makes it easy to find and pay for parking without running back to feed the meter. And for added convenience, you can reserve spots ahead of time.</p>
+                    <p className="mt-4 text-base text-black-50">When you are on the go, the free ParkIQ app makes it easy to find and pay for parking without running back to feed the meter. And for added convenience, you can reserve spots ahead of time.</p>
 
                     <div className="flex flex-row items-center mt-8 space-x-4 lg:mt-12">
                         <Link href="https://api.whatsapp.com/send?phone=919599695872&text=Hello" title="" className="flex" role="button">
