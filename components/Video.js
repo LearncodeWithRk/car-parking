@@ -33,7 +33,7 @@ const Video = () => {
 
             <div className="flex flex-col items-start xl:px-16">
                 <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">Easily Pay for Parking From Your Phone</h2>
-                <p className="mt-4 text-base leading-relaxed text-gray-600">No change? Quickly pay for on-street parking right from your mobile device. Watch the video to learn how simple parking with ParkMobile can be..</p>
+                <p className="mt-4 text-base leading-relaxed text-gray-600">No change? Quickly pay for on-street parking right from your mobile device. Watch the video to learn how simple parking with ParkIQ can be..</p>
 
                 <Link href="#" title="" className="inline-flex items-center justify-center px-5 py-4 mt-8 text-base font-semibold text-white transition-all duration-200 rounded-md hover:opacity-90 focus:opacity-90 lg:mt-auto bg-gradient-to-r from-fuchsia-600 to-blue-600" role="button">
                     Get started now
