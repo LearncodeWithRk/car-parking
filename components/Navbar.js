@@ -12,8 +12,8 @@ function Nav() {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <Link href="/"><Image
-                  className="h-8 w-8"
-                  src="https://res.cloudinary.com/learncodewithrk/image/upload/v1687440381/logooo_ei2jia.png"
+                  className="h-8 w-100"
+                  src="https://res.cloudinary.com/learncodewithrk/image/upload/v1687519208/carkkk_s4xgvc.png"
                   alt="parkiq"
                   width={100} height={100}
                 /></Link>

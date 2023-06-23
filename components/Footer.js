@@ -8,7 +8,7 @@ const Footer = () => {
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-12 gap-y-12 gap-x-8 xl:gap-x-12">
             <div className="col-span-2 md:col-span-4 xl:pr-8">
-                <Image className="w-auto h-9" src="https://res.cloudinary.com/learncodewithrk/image/upload/v1687440381/logooo_ei2jia.png" alt="" width={1920} height={1280}/>
+                <Image className="w-auto h-9" src="https://res.cloudinary.com/learncodewithrk/image/upload/v1687519208/carkkk_s4xgvc.png" alt="" width={1920} height={1280}/>
 
                 <p className="text-base leading-relaxed text-gray-600 mt-7">Paying for parking: In many urban areas, parking spaces require payment. This can be done using parking meters, pay-and-display machines, or mobile payment apps</p>
 
@@ -118,7 +118,7 @@ const Footer = () => {
               
 
                 <li>
-                    <Link href="https://www.facebook.com/Ronitsharma.ideas/"
+                    <Link href="#"
                         title=""
                         className="flex items-center justify-center text-gray-800 transition-all duration-200 bg-transparent border border-gray-300 rounded-full w-7 h-7 focus:bg-orange-600 hover:text-white focus:text-white hover:bg-orange-600 hover:border-orange-600 focus:border-orange-600"
                     >
@@ -129,7 +129,7 @@ const Footer = () => {
                 </li>
 
                 <li>
-                    <Link href="https://www.instagram.com/learncodewithrk/?utm_medium=copy_link"
+                    <Link href="#"
                         title=""
                         className="flex items-center justify-center text-gray-800 transition-all duration-200 bg-transparent border border-gray-300 rounded-full w-7 h-7 focus:bg-orange-600 hover:text-white focus:text-white hover:bg-orange-600 hover:border-orange-600 focus:border-orange-600"
                     >
@@ -144,7 +144,7 @@ const Footer = () => {
                 </li>
 
                 <li>
-                    <Link href="https://github.com/LearncodeWithRk"
+                    <Link href="#"
                         title=""
                         className="flex items-center justify-center text-gray-800 transition-all duration-200 bg-transparent border border-gray-300 rounded-full w-7 h-7 focus:bg-orange-600 hover:text-white focus:text-white hover:bg-orange-600 hover:border-orange-600 focus:border-orange-600"
                     >
